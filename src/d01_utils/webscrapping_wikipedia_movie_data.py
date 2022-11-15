@@ -11,7 +11,7 @@ import numpy as np
 global movie_year
 global movies_of_
 global save_data_path
-movie_year = 2020
+movie_year = 2021
 movies_of_ = 'movies_of_{movie_year}'
 save_data_path = 'D:/github-repos/movie-recommendation-system-with-sentiment-analysis-with-nlp/data/02_intermediate'
 
